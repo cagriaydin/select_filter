@@ -1,6 +1,8 @@
-# select_filter
+# Select Filter
 
-A new Flutter package project.
+Selectable filter component for Flutter with customizable settings and great UX. Compatible with Android & iOS.
+
+![Horizontal](screenshots/showcase.gif)
 
 ## Getting Started
 
