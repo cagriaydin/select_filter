@@ -2,7 +2,7 @@
 
 Selectable filter component for Flutter with customizable settings and great UX. Compatible with Android & iOS.
 
-<img src="https://github.com/cagriaydin/select_filter/blob/master/screenshots/showcase.gif" width="250">
+<img src="https://github.com/cagriaydin/select_filter/raw/master/screenshots/showcase.gif" width="250">
 
 ## Getting Started
 
