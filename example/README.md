@@ -1,6 +1,6 @@
-# example
+# Select Filter
 
-A new Flutter project.
+Selectable filter component for **Flutter** with **customizable settings** and great **UX**. Compatible with Android & iOS.
 
 ## Getting Started
 
