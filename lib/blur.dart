@@ -3,10 +3,10 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 class BlurBuilder extends StatelessWidget {
-  bool isVisible;
-  Widget child;
-  double sigmaX;
-  double sigmaY;
+  final bool isVisible;
+  final Widget child;
+  final double sigmaX;
+  final double sigmaY;
 
   BlurBuilder({
     this.isVisible,

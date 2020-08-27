@@ -1,5 +1,5 @@
 name: select_filter
-description: Selectable filter package for Flutter. 
+description: Selectable filter component for Flutter with customizable settings and great UX. Compatible with Android & iOS.
 version: 0.0.1
 author: Çağrı Aydın<c.aydinakdogan@gmail.com>
 homepage: https://github.com/cagriaydin/select_filter
